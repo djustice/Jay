@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:Jay
+email:djustice@chakra-project.org
+gender:male
+botmaster:Drake Justice
+organization:Chakra KDE
+version:0.0.1
+
